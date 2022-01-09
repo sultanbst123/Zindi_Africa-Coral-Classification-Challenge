@@ -8,7 +8,9 @@ Tujuan dari tantangan ini adalah menggunakan "Machine Learning" untuk mengidenti
 - Image size = 240 
 - label smoothing = 0.1 
 - Optimizer = Adabelief
+- rectify(RAdam)= True
 - Weight decay = 1e-5
 - learning rate schduler = Triangular2CyclicalLearningRate
 
 
+Good luck 😁

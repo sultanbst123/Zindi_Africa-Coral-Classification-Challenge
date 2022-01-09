@@ -1,2 +1,14 @@
 # Zindi_Africa-Coral-Classification-Challenge
-Zindi Aftica Competition
+
+Tujuan dari tantangan ini adalah menggunakan "Machine Learning" untuk mengidentifikasi jenis karang dalam sebuah gambar.
+
+### Note:
+- Pre trained model = EfficientNetV2B1
+- Weight = imagenet21k
+- Image size = 240 
+- label smoothing = 0.1 
+- Optimizer = Adabelief
+- Weight decay = 1e-5
+- learning rate schduler = Triangular2CyclicalLearningRate
+
+

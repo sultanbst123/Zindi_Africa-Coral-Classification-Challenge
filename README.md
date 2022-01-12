@@ -12,5 +12,8 @@ Tujuan dari tantangan ini adalah menggunakan "Machine Learning" untuk mengidenti
 - Weight decay = 1e-5
 - learning rate schduler = Triangular2CyclicalLearningRate
 
+## Dataset & information
+
+https://zindi.africa/competitions/coral-classification-challenge
 
 Good luck 😁
